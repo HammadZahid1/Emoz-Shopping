@@ -1,29 +1,6 @@
 <div id="top"></div>
 
 <br />
-<div align="center">
-  <a href="https://github.com/hammadzahid1/Emoz-shopping">
-    <img src="https://icons-for-free.com/iconfiles/png/512/cart+checked+ecommerce+online+shopping+shopping+cart+icon-1320165952137863404.png" alt="Logo" width="100">
-  </a>
-
-  <h3 align="center">EZ - Shopping</h3>
-
-  <p align="center">
-    A fully featured multi - vendor <b>E - commerce</b> website.
-    <br />
-    <a href="https://github.com/hammadzahid1/Emoz-shopping"><strong>Explore the docs »</strong></a>
-    <br />
-    <br />
-    <a href="https://ezshopping-rushabh.herokuapp.com">View Demo</a>
-    ·
-    <a href="https://github.com/hammadzahid1/Emoz-shopping/issues">Report Bug</a>
-    ·
-    <a href="https://github.com/hammadzahid1/Emoz-shopping/pulls">Request Feature</a>
-  </p>
-</div>
-
-
-
 <!-- TABLE OF CONTENTS -->
 <details>
   <summary>Table of Contents</summary>
